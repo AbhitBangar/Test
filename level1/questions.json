@@ -1,0 +1,164 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Upadhātu of Rasa –",
+      "answer": "Raja",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 2,
+      "question": "Asthi dhātu mala –",
+      "answer": "Kesha",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 3,
+      "question": "Number of Srotas (Charaka) –",
+      "answer": "Thirteen",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 4,
+      "question": "Main Doṣa in Prameha –",
+      "answer": "Kapha",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 5,
+      "question": "Drug of choice in Vātavyādhi –",
+      "answer": "Basti",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 6,
+      "question": "Vitamin deficiency causing night blindness –",
+      "answer": "Vitamin-A",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 7,
+      "question": "Emergency antidote in OP poisoning –",
+      "answer": "Atropine",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 8,
+      "question": "Surgical procedure for Bhagandara –",
+      "answer": "Ksharasutra",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 9,
+      "question": "Pregnancy in fallopian tube is called -",
+      "answer": "ectopic pregnancy",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 10,
+      "question": "Sannipatika gulma is also known as -",
+      "answer": "Nichaya gulma",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 11,
+      "question": "Nerve tested in corneal reflex –",
+      "answer": "Trigeminal",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 12,
+      "question": "First Rasāyana described in Charaka –",
+      "answer": "Āmalaki",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 13,
+      "question": "Harmone responsible for screation of milk -",
+      "answer": "prolactin",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 14,
+      "question": "Harmone responsible for ejection of milk -",
+      "answer": "oxytocin",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 15,
+      "question": "Number of Marmas (Suśruta) –",
+      "answer": "One-hundred-seven",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 16,
+      "question": "Test to detect tuberculosis –",
+      "answer": "Mantoux",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 17,
+      "question": "Drug used in acute asthma attack –",
+      "answer": "Salbutamol",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 18,
+      "question": "Commonest valve involved in RHD –",
+      "answer": "Mitral",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 19,
+      "question": "Ayurvedic term for Ascites –",
+      "answer": "Jalodara",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    },
+    {
+      "id": 20,
+      "question": "Line of fracture separation in children –",
+      "answer": "Epiphysis",
+      "isRapidFire": true,
+      "createdAt": "2026-02-11T17:50:00.000Z",
+      "updatedAt": "2026-02-11T17:50:00.000Z"
+    }
+  ]
+}
